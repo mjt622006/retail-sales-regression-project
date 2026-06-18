@@ -2,6 +2,8 @@
 
 A multilinear regression analysis identifying the key drivers of annual sales across 400 Dutch men's fashion stores (1990).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mjt622006/retail-sales-regression-project/blob/main/retail_sales_regression.ipynb)
+
 ---
 
 ## Project Summary
